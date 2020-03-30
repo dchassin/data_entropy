@@ -33,7 +33,7 @@ than 8.
 
 # Caveat
 
-If a low resolution dataset has been filtered or subect to noise, then 
+If a low resolution dataset has been filtered or subjected to noise, then 
 it may have a unique entropy that is higher than expected.  Similarly, if a
 high resolution data has been filtered or subject to lossy compression, then
 it may have a unique entropy that is lower than expected. This can be used
