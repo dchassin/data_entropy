@@ -37,7 +37,7 @@ If a low resolution dataset has been filtered or subjected to noise, then
 it may have a unique entropy that is higher than expected.  Similarly, if a
 high resolution data has been filtered or subject to lossy compression, then
 it may have a unique entropy that is lower than expected. This can be used
-to detect whether a dataset has be subject to filtering, noise, or lossy
+to detect whether a dataset has been subjected to filtering, noise, or lossy
 compression.
 
 # Example
